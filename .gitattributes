@@ -1,1 +1,2 @@
+sky-ocr-engine-serve.zip filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
